@@ -14,4 +14,4 @@ Program returns an output like the task manager showing all processes with pid i
 
 ### Run_As_Administrator.cpp
 
-This program is pretty simple once you run it, it checks if the current program was ran as an administrator if not then the program relaunches its self as an administrator with a UAC prompt ofc.
+This program is pretty simple once you run it, it checks if the current program was ran as an administrator if not then the program relaunches its self as an administrator with a UAC prompt to allow to run as Admin.
